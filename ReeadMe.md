@@ -8,7 +8,7 @@ Before you start using this application, ensure you have Python installed on you
 
 ## Installation
 
-1. **Install Python Packages**:
+### 1. Install Python Packages**:
    Open your terminal and run the following commands:
 
    ```bash
@@ -16,15 +16,15 @@ Before you start using this application, ensure you have Python installed on you
    pip install tqdm
    ```
 
-2. **Update the code and provide the DOWNLOAD_PATH
+### 2. Update the code and provide the DOWNLOAD_PATH
 
-3. **Ensure the Script is Executable
+### 3. Ensure the Script is Executable
 
     ```bash
     chmod +x app.py
     ```
 
-4. **Create and Configure the AppleScript
+### 4. Create and Configure the AppleScript
 
 - Open Script Editor on your Mac, found in Applications > Utilities.
 - Write the AppleScript with the following content, adjusting the path to where your app.py script is located:
